@@ -26,5 +26,5 @@ setup(
     project_urls={
         'GitHub': 'https://github.com/Nikmast1k'
     },
-    python_requires='>=3.10'
+    python_requires='>=3.6'
 )
